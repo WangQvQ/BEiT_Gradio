@@ -1,0 +1,6 @@
+transformers
+gradio
+PIL
+requests
+numpy
+torch
