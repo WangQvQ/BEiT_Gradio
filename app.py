@@ -24,8 +24,8 @@ iface = gr.Interface(
     inputs=gr.inputs.Image(type="numpy"),  # Specify input type as numpy array
     outputs="json",
     live=True,
-    title="BEiT 图像分类",
-    description="上传一张图像获取分类结果"
+    title="BEiT 图像描述",
+    description="上传一张图像获取描述结果"
 )
 
 if __name__ == "__main__":

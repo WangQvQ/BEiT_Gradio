@@ -1,6 +1,6 @@
 transformers
 gradio
-PIL
+pillow
 requests
 numpy
 torch
